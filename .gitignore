@@ -1,0 +1,24 @@
+# .NET
+backend/bin/
+backend/obj/
+
+# Node
+frontend/landing/node_modules/
+frontend/admin/node_modules/
+frontend/landing/dist/
+frontend/admin/dist/
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.local
