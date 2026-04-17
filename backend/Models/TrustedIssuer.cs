@@ -1,4 +1,4 @@
-namespace ShadowWallet.Models;
+namespace ShadowTrust.Models;
 
 public class TrustedIssuer
 {

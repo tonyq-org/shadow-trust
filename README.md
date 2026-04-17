@@ -1,11 +1,11 @@
-# Shadow Wallet
+# Shadow Trust
 
-A self-hosted Decentralized Identity Wallet (DIW) platform with a paid Trust List service.
+A paid Trust List service for Decentralized Identity Wallet (DIW) ecosystems.
 
 ## Structure
 
 ```
-shadow-wallet/
+shadow-trust/
 ├── backend/          # ASP.NET MVC — Trust Registry API + Admin API
 ├── frontend/
 │   ├── landing/      # Vue 3 — Public website + pricing

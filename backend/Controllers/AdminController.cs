@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ShadowWallet.Data;
-using ShadowWallet.Models;
+using ShadowTrust.Data;
+using ShadowTrust.Models;
 
-namespace ShadowWallet.Controllers;
+namespace ShadowTrust.Controllers;
 
 [ApiController]
 [Route("api/admin")]

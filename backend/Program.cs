@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using ShadowWallet.Data;
+using ShadowTrust.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

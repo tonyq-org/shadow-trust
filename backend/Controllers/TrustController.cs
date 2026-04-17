@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ShadowWallet.Data;
+using ShadowTrust.Data;
 
-namespace ShadowWallet.Controllers;
+namespace ShadowTrust.Controllers;
 
 [ApiController]
 [Route("api/trust")]

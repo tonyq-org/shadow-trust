@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using ShadowWallet.Models;
+using ShadowTrust.Models;
 
-namespace ShadowWallet.Data;
+namespace ShadowTrust.Data;
 
 public class AppDbContext : DbContext
 {
